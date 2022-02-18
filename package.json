@@ -14,6 +14,7 @@
   "devDependencies": {
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/kit": "next",
+    "@types/alpinejs": "^3.7.0",
     "@typescript-eslint/eslint-plugin": "^5.10.1",
     "@typescript-eslint/parser": "^5.10.1",
     "eslint": "^7.32.0",
@@ -27,5 +28,8 @@
     "tslib": "^2.3.1",
     "typescript": "~4.5.4"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "alpinejs": "^3.9.0"
+  }
 }
