@@ -1,5 +1,5 @@
-<main>
-    <header>
+<main class="grid place-center">
+    <header class="container mx-auto">
         <svg viewBox="0 0 100 25"
             xmlns="http://www.w3.org/2000/svg">
             <title>Idea Lunchbox</title>
@@ -17,9 +17,11 @@
             <path d="m18.3 9.2h-2.1c-.3-.8-1.2-1.3-2.1-1.3-1 0-1.8.5-2.2 1.3h-2.1a1 1 0 0 0 -1 1v5.8c0 .6.5 1 1 1h8.4c.6 0 1-.5 1-1v-5.7a1 1 0 0 0 -.9-1.1zm-4.3-.9c.6 0 1.4.3 1.8 1h-3.5c.3-.8 1.1-1 1.7-1zm4.9 7.7c0 .4-.3.6-.6.6h-8.5c-.4 0-.6-.3-.6-.6v-5.7c0-.4.3-.6.6-.6h8.4c.4 0 .6.3.6.6v5.7z" fill="#3c3d3c"/>
         </svg>
     </header>
-    <article>
-        <p>Our apologies for the site's disruption; however, we're thrilled to announce that as a splendid result of our endless efforts and outstanding ecosystem support, Idea Lunchbox is soon giving room to the next step in evolution.</p>
-        <p>We'll continue moving forward stronger than ever towards our goal to bridge, strengthen, and expand global innovation, entrepreneurship, and collaboration.</p>
-        <p>Stay tuned!</p>
-    </article>
+    <section class="bg-il-orange">
+        <article class="container mx-auto py-8 text-white">
+            <p class="mb-4 text-white">Our apologies for the site's disruption; however, we're thrilled to announce that as a splendid result of our endless efforts and outstanding ecosystem support, Idea Lunchbox is soon giving room to the next step in evolution.</p>
+            <p class="mb-4 text-white">We'll continue moving forward stronger than ever towards our goal to bridge, strengthen, and expand global innovation, entrepreneurship, and collaboration.</p>
+            <p class="mb-4 text-white">Stay tuned!</p>
+        </article>
+    </section>
 </main>
