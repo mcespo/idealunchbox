@@ -3,10 +3,10 @@ const config = {
 
 	theme: {
 		fontFamily: {
-			'sans': ['Helvetica', 'Arial', 'sans-serif'],
+			sans: ['Helvetica', 'Arial', 'sans-serif']
 		},
 		colors: {
-			'il-orange': '#ef7216',
+			'il-orange': '#ef7216'
 		}
 	},
 
