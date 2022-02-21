@@ -49,7 +49,8 @@
 	<section class="bg-il-orange">
 		<article class="prose prose-lg mx-auto py-8 px-4 text-white">
 			<p>
-				We're thrilled to announce that as a splendid result of our endless efforts and outstanding ecosystem support, Idea Lunchbox is soon giving room to the next step in evolution.
+				We're thrilled to announce that as a splendid result of our endless efforts and outstanding
+				ecosystem support, Idea Lunchbox is soon giving room to the next step in evolution.
 			</p>
 			<p>
 				We'll continue moving forward stronger than ever towards our goal to bridge, strengthen, and

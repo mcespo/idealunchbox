@@ -4,7 +4,10 @@
 
 <svelte:head>
 	<title>Idea Lunchbox</title>
-	<meta name="description" content="We're an international platform that aims to bridge, strengthen, and expand global innovation, entrepreneurship, and collaboration.">
+	<meta
+		name="description"
+		content="We're an international platform that aims to bridge, strengthen, and expand global innovation, entrepreneurship, and collaboration."
+	/>
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 	<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap" rel="stylesheet" />
