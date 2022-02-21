@@ -6,11 +6,15 @@ const config = {
 			sans: ['Helvetica', 'Arial', 'sans-serif']
 		},
 		colors: {
+			'white': '#ffffff',
+			'black': '#000000',
 			'il-orange': '#ef7216'
 		}
 	},
 
-	plugins: []
+	plugins: [
+		require('@tailwindcss/typography')
+	]
 };
 
 module.exports = config;
