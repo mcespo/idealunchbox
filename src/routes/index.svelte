@@ -37,17 +37,17 @@
 		</svg>
 	</header>
 	<section>
-		<article class="bg-il-orange text-center py-8 px-7 text-white">
-			<p class="text-2xl lg:text-5xl max-w-7xl mx-auto">
+		<article class="bg-il-orange text-center py-12 px-7 text-white leading-6">
+			<p class="text-2xl lg:text-4xl max-w-7xl mx-auto font-bold">
 				We're thrilled to announce that as a splendid result of our endless efforts and outstanding
 				ecosystem support, Idea Lunchbox is soon giving room to the next step in evolution.
 			</p>
-			<div aria-hidden="true" class="py-4 lg:py-6">• • • •</div>
-			<p class="text-xl lg:text-2xl max-w-7xl mx-auto pb-5 lg:pb-7">
+			<div aria-hidden="true" class="py-4 lg:py-6 font-bold">• • • •</div>
+			<p class="text-xl lg:text-3xl max-w-7xl mx-auto pb-5 lg:pb-7 font-normal">
 				We'll continue moving forward stronger than ever towards our goal to bridge, strengthen, and
 				expand global innovation, entrepreneurship, and collaboration.
 			</p>
-			<p class="max-w-7xl mx-auto text-2xl lg:text-5xl">Stay tuned!</p>
+			<p class="max-w-7xl mx-auto text-2xl lg:text-4xl font-bold">Stay tuned!</p>
 		</article>
 	</section>
 </main>
