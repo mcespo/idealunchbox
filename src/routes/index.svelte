@@ -1,6 +1,6 @@
 <main
 	class="grid h-screen"
-	style="grid-template-rows: 1fr 2fr; background: url('./static/idl_orange-grid-background.jpg') no-repeat 50% 50%/cover;}"
+	style="grid-template-rows: 1fr 2fr; background: url('./static/idl_orange-grid-background.jpg') no-repeat 50% 50%/cover;"
 >
 	<header class="self-end px-7">
 		<svg
