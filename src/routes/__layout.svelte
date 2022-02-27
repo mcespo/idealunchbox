@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Idea Lunchbox</title>
+	<title>iDEA Lunchbox</title>
 	<meta
 		name="description"
 		content="We're an international platform that aims to bridge, strengthen, and expand global innovation, entrepreneurship, and collaboration."

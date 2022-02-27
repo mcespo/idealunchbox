@@ -8,7 +8,7 @@
 			xmlns="http://www.w3.org/2000/svg"
 			viewBox="0 0 277.8 31.7"
 		>
-			<title>Idea Lunchbox</title>
+			<title>iDEA Lunchbox</title>
 			<desc>Idea Lunchbox, single line with white text</desc>
 			<rect width="1.4" height="1.6" x="11.1" y="12.4" fill="#ef7216" rx=".7" />
 			<rect width="1.3" height="9.5" x="11.2" y="14.9" fill="#fff" rx=".6" />
